@@ -1,4 +1,4 @@
-# emergingTechnologies
+# Emerging Technologies
 
 This is a 4th Year Project for Emerging Technologies for sortware development.
 The project involves writing documentation, code, and comments
